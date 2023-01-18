@@ -10,7 +10,7 @@ this program was writen to help bootcamp studenst have a orginized way of findin
 N/A
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+N/A
 
 ## Usage
 
